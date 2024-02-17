@@ -6,11 +6,11 @@
 I created XGBoost model for prediction and demonstrate it through Streamlit.
 </h3>
 <p align="center">
-<img src="../images/main.jpeg" alt="main">
+<img src="images/main.jpeg" alt="main">
 </p>
 
-<img src="../images/first.png" alt="first">
-<img src="../images/second.png" alt="second">
+<img src="images/first.png" alt="first">
+<img src="images/second.png" alt="second">
 
 <h3> 1. Change threshold understanding "fraud".</h3>
 
@@ -22,4 +22,4 @@ I created XGBoost model for prediction and demonstrate it through Streamlit.
 <h3> 3. Get results)
 </h3>
 
-![mygif](../images/streamlit_video.gif)
+![mygif](images/streamlit_video.gif)
